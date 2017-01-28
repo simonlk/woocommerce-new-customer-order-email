@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WooCommerce New Customer Order Email
  * Plugin URI: 
- * Description: 
+ * Description: Plugin to send a single email to the customer when the order is placed, just like the "New Order" email that is sent to the store admin.
  * Author: 
  * Author URI: 
  * Version: 0.1
